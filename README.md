@@ -1,4 +1,4 @@
-# covid-19
+# Covid-19
 Tools untuk melihat Info data Covid-19
 
 # How To Install
