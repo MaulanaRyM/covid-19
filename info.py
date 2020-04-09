@@ -91,7 +91,7 @@ def cls():
 |/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|
 *Thanks To Army Cyber Network*
 
-Sumber Info: https://kawalcorona.com'''
+Sumber Info: https://kawalcorona.com''')
 
 def output(x):
     now = dt.now()
