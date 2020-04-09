@@ -92,7 +92,8 @@ def cls():
 *Thanks To Army Cyber Network*
 
 Sumber Info: https://kawalcorona.com''')
-
+input('Press Enter to continue...')
+                  
 def output(x):
     now = dt.now()
     now = f'{hari[now.weekday()]}, {now.day} {bulan[now.month-1]} {now.year} {now.hour}:{now.minute}:{now.second}'
